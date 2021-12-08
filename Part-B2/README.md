@@ -86,4 +86,4 @@
   2. ตรวจสอบ field ว่ากรอกข้อมูลถูกต้องตาม pattern หรือไม่ เช่น เบอร์โทรศัพท์ ต้องเป็นตัวเลขเท่านั้น
   3. ส่งข้อมูลไปยังหลังบ้าน
 
-[code example]: https://codesandbox.io/s/save-draft-and-submit-nqxn6?file=/index.js
+[code example](https://codesandbox.io/s/save-draft-and-submit-nqxn6?file=/index.js)
